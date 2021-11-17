@@ -1,6 +1,6 @@
 # SQL - More queries
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/3/bc2575fee3303b731031.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20211117%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211117T120339Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f016f407a4e9df5968ce14f18e5827e44f4774b00d593da6cf9d73894820b37f)
+![](https://www.syncfusion.com/blogs/wp-content/uploads/2020/08/How-to-Migrate-SQL-Server-in-an-ASP.NET-MVC-Application-to-MySQL-and-PostgreSQL.png)
 
 Project done during **Full Stack Software Engineering studies** at **ALX | Holberton School**. It aims to learn about how to create a new user, manage privileges for a user, `PRIMARY KEY`, `FOREIGN KEY`, constraints, subqueries, `JOIN` and `UNION` with **MySQL**.
 
